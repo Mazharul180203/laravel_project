@@ -1,0 +1,20 @@
+.navbar.navbar-light.navbar-expand-md {
+    background-color: #330066;
+    tex: white;
+}
+a{
+    color: #fff;
+}
+a:hover{
+    color: #fff;
+}
+.nav-item a:hover, .nav-item .active > a, .nav-item li:hover > a {
+    color: #fff;
+    text-decoration: none;
+    /*background-color: #6DABA7;*/
+    background-color: #9f9fe9;
+
+    border-radius: 10px;
+    z-index: 99;
+
+}

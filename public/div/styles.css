@@ -1,0 +1,12 @@
+.center {
+    margin: auto;
+    color:navy;
+    width: max-content;
+}
+
+#centAlign{
+    margin: 0 auto;
+    width: 70%;
+
+    padding: 10px;
+}
